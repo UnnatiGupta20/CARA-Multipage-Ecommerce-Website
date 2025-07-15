@@ -1,4 +1,6 @@
 🛍️ Cara - Multipage E-Commerce Website
+
+
 Cara is a responsive, modern, and stylish fashion e-commerce website built using HTML, CSS, and JavaScript. The project includes a homepage, shop, blog, about, contact, cart, and product details pages with interactive features like product filtering, image previews, and an "Add to Cart" functionality using localStorage.
 
 🚀 Features:-
